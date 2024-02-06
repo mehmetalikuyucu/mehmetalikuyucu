@@ -1,7 +1,7 @@
 ## Hi , I am Mehmet Ali Kuyucu . 
 - I am computer engineer.
 - I am working as a frontend developer.
-- I enjoy developing something.
+- I enjoy developing things.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-quare&labelColor=black&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mehmetalikuyucu/)
