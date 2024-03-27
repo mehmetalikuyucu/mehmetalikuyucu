@@ -8,4 +8,4 @@
  <a href="https://github.com/mehmetalikuyucu/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=mehmetalikuyucu&color=blue">
 </a>
-<a href="https://www.buymeacoffee.com/mehmetalikuyucu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee"></a>
+<a href="https://www.buymeacoffee.com/mehmetalikuyucu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png"  height="20" width="87" alt="Buy Me A Coffee"></a>
